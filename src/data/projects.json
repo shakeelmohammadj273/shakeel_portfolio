@@ -1,0 +1,16 @@
+[
+{
+"id": "p1",
+"name": "3D Port Scene",
+"tech": ["React","Three.js"],
+"short": "Interactive 3D port scene with moving ship, truck and crane.",
+"link": "#"
+},
+{
+"id": "p2",
+"name": "HR Chatbot (greytHR)",
+"tech": ["Node.js","APIs"],
+"short": "Chatbot to fetch employee details and apply for leaves using greytHR API.",
+"link": "#"
+}
+]
