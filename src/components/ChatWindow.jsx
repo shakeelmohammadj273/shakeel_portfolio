@@ -559,6 +559,31 @@ keywords:['are you looking for a job',
 },
 {
   keywords: [
+    'python rating',
+    'rate your python',
+    'how good are you in python',
+    'python skill level',
+    'python 1-10',
+    'python expertise',
+    'python proficiency',
+    'python experience',
+    'python knowledge',
+    'python skills',
+    'python competency',
+    'python programming',
+    'python coding skills',
+    'your python level',
+    'python abilities',
+    'python capabilities',
+    'python strength',
+    'python expertise level',
+    'python knowledge level',
+    'python development skills'
+  ],
+  reply: "I would rate myself <strong>8 out of 10</strong> in Python. I have strong hands-on experience in <strong>machine learning</strong>, <strong>data analysis</strong>, <strong>computer vision</strong>, and <strong>backend development</strong> using Python. I’m confident with writing clean, optimized code and always working to improve further."
+},
+{
+  keywords: [
     'expected salary',
     'salary expectation',
     'what is your expected salary',
