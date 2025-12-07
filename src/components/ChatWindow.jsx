@@ -196,7 +196,7 @@ const ChatWindow = ({ responses }) => {
   };
 
   return (
-    <div className="flex flex-col h-screen max-w-lg mx-auto bg-white shadow-lg rounded-lg overflow-hidden">
+    <div className="flex flex-col h-full max-h-[80vh] md:max-h-none bg-white shadow-lg rounded-lg overflow-hidden">
       <div className="bg-blue-500 text-white text-center py-3 font-semibold text-lg">
         💬 Chat with Shakeel
       </div>
@@ -208,7 +208,7 @@ const ChatWindow = ({ responses }) => {
             className={`flex ${msg.sender === 'user' ? 'justify-end' : 'justify-start'}`}
           >
             <div
-              className={`px-4 py-2 rounded-xl max-w-[75%] ${
+              className={`px-4 py-2 rounded-xl max-w-[85%] sm:max-w-[75%]${
                 msg.sender === 'user'
                   ? 'bg-blue-500 text-white'
                   : 'bg-gray-100 text-gray-800'

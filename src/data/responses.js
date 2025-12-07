@@ -523,11 +523,6 @@ keywords:['are you looking for a job',
   reply: "My strengths include strong problem-solving skills, quick learning ability, and the passion to dive deep into AI, ML, and software development. I stay consistent, disciplined, and focused on improving myself continuously. </br> For weaknesses, I sometimes take on too many tasks because I want to learn everything quickly — but I am working on improving my prioritization and time management."
 },
 {
-  keywords:["love","wife"],
-  reply:"Faheema"
-
-},
-{
   keywords: [
     'can you join immediately',
     'immediate joiner',
