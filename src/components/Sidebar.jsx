@@ -43,7 +43,7 @@ export default function Sidebar() {
       <div className="flex flex-col gap-4 items-start">
         <div className="w-20 h-20 rounded-full overflow-hidden">
           <img
-            src="src\photo\photo.jpg"
+            src="photo\photo.jpg"
             alt="Shakeel"
             className="w-full h-full object-cover"
           />
