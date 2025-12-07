@@ -36,6 +36,7 @@
 import React from 'react'
 import about from '../data/about.json'
 import { FaEnvelope, FaLinkedin, FaGithub, FaFilePdf } from 'react-icons/fa'
+import photo from "../assets/photo.jpg";
 
 export default function Sidebar() {
   return (
@@ -43,7 +44,7 @@ export default function Sidebar() {
       <div className="flex flex-col gap-4 items-start">
         <div className="w-20 h-20 rounded-full overflow-hidden">
           <img
-            src="photo.jpg"
+            src={photo}
             alt="Shakeel"
             className="w-full h-full object-cover"
           />
